@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="15" viewBox="0 0 14 15">
+    <defs>
+        <filter id="fn9tfra4pa" width="185.7%" height="185.7%" x="-42.9%" y="-42.9%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="2"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g>
+                    <path fill="#009EFF" d="M14 7c0 3.866-3.134 7-7 7s-7-3.134-7-7 3.134-7 7-7 7 3.134 7 7zm-7.81 3.706l5.194-5.193c.176-.176.176-.462 0-.639l-.639-.638c-.176-.177-.462-.177-.638 0L5.87 8.47 3.893 6.494c-.176-.177-.462-.177-.638 0l-.639.638c-.176.177-.176.463 0 .639l2.936 2.935c.176.177.462.177.638 0z" filter="url(#fn9tfra4pa)" opacity=".8" transform="translate(-263 -375) translate(8 107) translate(255 268)"/>
+                    <path fill="#009EFF" d="M14 7c0 3.866-3.134 7-7 7s-7-3.134-7-7 3.134-7 7-7 7 3.134 7 7z" transform="translate(-263 -375) translate(8 107) translate(255 268)"/>
+                    <path fill="#FFF" d="M6.283 10.863l4.6-5.398c.156-.183.156-.48 0-.664l-.566-.664c-.156-.183-.41-.183-.566 0L6 8.54 4.249 6.484c-.157-.183-.41-.183-.566 0l-.566.664c-.156.183-.156.48 0 .664l2.6 3.05c.156.184.41.184.566 0z" transform="translate(-263 -375) translate(8 107) translate(255 268)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
