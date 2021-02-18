@@ -20,6 +20,7 @@
 		AB354E9DC1E140B7B5010AE1 /* TwCenMT.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0166BB30C02B4CFDBCA7F93D /* TwCenMT.ttf */; };
 		97D3F00BAE7145A1B0DED5D8 /* Ballet.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13934E62458C458DB4669EEA /* Ballet.ttf */; };
 		4BE5E669814041EBA8784C62 /* TwCenMT-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1DAE0247FABF482D84E1A928 /* TwCenMT-Bold.ttf */; };
+		8D6CB27FDD364D3B87A39736 /* ProximaNova-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = AA9AB0A9E71041A9A652A7DB /* ProximaNova-Light.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		0166BB30C02B4CFDBCA7F93D /* TwCenMT.ttf */ = {isa = PBXFileReference; name = "TwCenMT.ttf"; path = "../src/assets/fonts/TwCenMT.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		13934E62458C458DB4669EEA /* Ballet.ttf */ = {isa = PBXFileReference; name = "Ballet.ttf"; path = "../src/assets/fonts/Ballet.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		1DAE0247FABF482D84E1A928 /* TwCenMT-Bold.ttf */ = {isa = PBXFileReference; name = "TwCenMT-Bold.ttf"; path = "../src/assets/fonts/TwCenMT-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
+		AA9AB0A9E71041A9A652A7DB /* ProximaNova-Light.otf */ = {isa = PBXFileReference; name = "ProximaNova-Light.otf"; path = "../src/assets/fonts/ProximaNova-Light.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -173,6 +175,7 @@
 				0166BB30C02B4CFDBCA7F93D /* TwCenMT.ttf */,
 				13934E62458C458DB4669EEA /* Ballet.ttf */,
 				1DAE0247FABF482D84E1A928 /* TwCenMT-Bold.ttf */,
+				AA9AB0A9E71041A9A652A7DB /* ProximaNova-Light.otf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -320,6 +323,7 @@
 				AB354E9DC1E140B7B5010AE1 /* TwCenMT.ttf in Resources */,
 				97D3F00BAE7145A1B0DED5D8 /* Ballet.ttf in Resources */,
 				4BE5E669814041EBA8784C62 /* TwCenMT-Bold.ttf in Resources */,
+				8D6CB27FDD364D3B87A39736 /* ProximaNova-Light.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
