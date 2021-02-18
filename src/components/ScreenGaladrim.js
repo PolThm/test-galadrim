@@ -1,10 +1,12 @@
 import React from 'react';
-import {StyleSheet, Image, Text, View} from 'react-native';
+import {StyleSheet, Image, Text, View, ImageBackground} from 'react-native';
 
 const InventoryHome = () => {
   return (
-    <View>
-      <Image style={styles.imgMainBg} source={require('../assets/img/bg.jpg')} />
+    <ImageBackground
+      source={require('../assets/img/bg.jpg')}
+      style={{width: '100%', height: '100%'}}
+    >
       <View style={styles.bgModal} />
       <View style={styles.modal}>
         <View style={styles.modalContainer}>
@@ -15,15 +17,11 @@ const InventoryHome = () => {
           />
         </View>
       </View>
-    </View>
+    </ImageBackground>
   );
 };
 
 const styles = StyleSheet.create({
-  imgMainBg: {
-    width: '100%',
-    height: '100%',
-  },
   bgModal: {
     position: 'absolute',
     top: 0,
@@ -41,7 +39,7 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     bottom: 0,
-    top: 120,
+    top: 100,
     zIndex: 1002,
     alignItems: 'center',
   },
@@ -64,7 +62,7 @@ const styles = StyleSheet.create({
     marginTop: 20,
     width: '100%',
     borderRadius: 4,
-  }
+  },
 });
 
 export default InventoryHome;
